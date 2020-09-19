@@ -55,6 +55,3 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-
- baseurl: /hunguet312000-2021I_INT3306_21_WEEK2
-
