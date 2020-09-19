@@ -9,4 +9,3 @@ permalink: /home/
 ### Quê của mình là ở Ninh Bình, hiện tại thì mình đang học ở trường ĐH Công Nghệ - Đại học Quốc Gia Hà Nội
 ### Sở thích của mình: Đá bóng và đặc biệt mình là Fan của CLB Chelsea.
 
-<img src = "/assets/_images/anh2.jpg" />
