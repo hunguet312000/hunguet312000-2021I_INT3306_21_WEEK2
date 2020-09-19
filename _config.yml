@@ -55,5 +55,4 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- 
-baseurl: https://hunguet312000.github.io
+
