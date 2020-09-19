@@ -18,7 +18,6 @@ minima:
     github: hunguet312000
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
@@ -56,3 +55,5 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ 
+baseurl: https://hunguet312000.github.io
