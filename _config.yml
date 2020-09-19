@@ -14,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    facebook: https://www.facebook.com/Hung.VMF/
-    github:  https://github.com/hunguet312000
+    facebook: Hung.VMF
+    github: hunguet312000
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
